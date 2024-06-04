@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """Hello world application in flask, and another endpoint"""
 from flask import Flask, request
-#from markupsafe import escape
 
 app = Flask(__name__)
 
